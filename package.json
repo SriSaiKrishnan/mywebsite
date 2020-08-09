@@ -1,13 +1,13 @@
 {
-  "homepage": "http://hashirshoaeb.com",
-  "name": "developers-portfolio",
+  "homepage": "http://SriSaiKrishnan.github.io/mywebsite",
+  "name": "portfolio",
   "description": "A personal static website/portfolio template hosted with GitHub Pages, built to showcase my recent projects.",
   "version": "1.0.0",
   "private": true,
   "author": {
-    "name": "Hashir Shoaib",
-    "email": "hashirshoaeb@gmail.com",
-    "url": "https://github.com/hashirshoaeb"
+    "name": "Sri Sai Krishnan V",
+    "email": "krishnansai99@gmail.com",
+    "url": "https://github.com/SriSaiKrishnan"
   },
   "dependencies": {
     "@popperjs/core": "^2.1.1",
